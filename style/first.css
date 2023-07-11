@@ -1,0 +1,22 @@
+.poo-poo {
+    text-align: center;
+    font-size: 140px;
+    margin-top: 70px;
+    padding: 60px 0;
+    color: hsl(12, 62%, 23%);
+    text-shadow: 2px 2px 1px rgb(87, 83, 83);
+}
+.count {
+    text-align: center;
+    font-size: 40px;
+    
+}
+body {
+    background-image: url("../images/background.jpg");
+    background-size: cover;
+}
+.poop {
+    display: block;
+    margin: 500 auto;
+    background-repeat: no-repeat;
+}
